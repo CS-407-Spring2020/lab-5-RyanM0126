@@ -8,7 +8,7 @@
         app:showAsAction="never"
         />
     <item
-        android:id="@+id/addNote"
+        android:id="@+id/add"
         android:title="Add Note"
         app:showAsAction="never"
         />
